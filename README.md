@@ -1,1 +1,1 @@
-"# SimpleJavaGBAEmulator" 
+# SimpleJavaGBAEmulator 
